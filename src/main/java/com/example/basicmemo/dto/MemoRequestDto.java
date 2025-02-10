@@ -4,5 +4,5 @@ import lombok.Getter;
 
 @Getter
 public class MemoRequestDto {
-    private String Content;
+    private String content;
 }
